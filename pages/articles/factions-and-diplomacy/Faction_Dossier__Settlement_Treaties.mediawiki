@@ -1,0 +1,32 @@
+{{Short description|Faction Dossier: Settlement Treaties summarizes history, membership expectations, and diplomatic ties surrounding the settlement treaties group}}
+= Faction Dossier: Settlement Treaties =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Faction Dossier: Settlement Treaties summarizes history, membership expectations, and
+diplomatic ties surrounding the settlement treaties group. This entry links back to
+[[Category:Factions & Diplomacy|Factions & Diplomacy]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Faction Dossier: Settlement Treaties''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Factions & Diplomacy|Factions & Diplomacy]] standards that apply to Faction Dossier: Settlement Treaties.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Faction Dossier: Settlement Treaties''' to keep the
+[[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Faction Dossier: Founders Council Charter]]
+* [[Faction Dossier: Spawn Guardians Pact]]
+* [[Faction Dossier: Highway Collective]]
+
+[[Category:Factions & Diplomacy]]
+[[Category:2bZ Wiki]]

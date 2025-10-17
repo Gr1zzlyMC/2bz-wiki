@@ -1,0 +1,29 @@
+{{Short description|Overview of the Combat Academy pages on the 2bZ wiki}}
+= Category:Combat Academy =
+{{2bZ Navbox}}
+__NOTOC__
+
+PvP tactics, training regimens, and combat-ready loadouts for defending bases and contesting objectives.
+
+== Featured Pages ==
+* [[Combat Academy: Anchor Trap Planning]]
+* [[Combat Academy: Arena Training Layouts]]
+* [[Combat Academy: Axe Combat Tactics]]
+* [[Combat Academy: Bow Control Drills]]
+* [[Combat Academy: Crossbow Ambushes]]
+* [[Combat Academy: Crystal PvP Basics]]
+* [[Combat Academy: Debuff Management]]
+* [[Combat Academy: End Crystal Etiquette]]
+* [[Combat Academy: Escape and Pursuit]]
+* [[Combat Academy: Gapple Timing]]
+* [[Combat Academy: Gear Repair Cycles]]
+* [[Combat Academy: Obsidian Box Defense]]
+* [[Combat Academy: Potion Duels]]
+* [[Combat Academy: Potion Splash Support]]
+* [[Combat Academy: Shield Counterplay]]
+* [[Combat Academy: Swordplay Fundamentals]]
+* [[Combat Academy: Team Fight Formations]]
+* [[Combat Academy: Totem Management]]
+* [[Combat Academy: Trident Combat]]
+
+[[Category:2bZ Wiki]]

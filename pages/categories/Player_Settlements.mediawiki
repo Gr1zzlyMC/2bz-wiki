@@ -1,0 +1,29 @@
+{{Short description|Overview of the Player Settlements pages on the 2bZ wiki}}
+= Category:Player Settlements =
+{{2bZ Navbox}}
+__NOTOC__
+
+Active bases and player-led communities, with onboarding info, rules of engagement, and visiting hours.
+
+== Featured Pages ==
+* [[Settlement Profile: Archivist Sanctum]]
+* [[Settlement Profile: Beacon Heights]]
+* [[Settlement Profile: Builder's Refuge]]
+* [[Settlement Profile: Cliffside Borough]]
+* [[Settlement Profile: Deepwood Enclave]]
+* [[Settlement Profile: End Frontier Camp]]
+* [[Settlement Profile: Frostgate Hamlet]]
+* [[Settlement Profile: Glowstone Market]]
+* [[Settlement Profile: Harvest Hollow]]
+* [[Settlement Profile: Lagless Haven]]
+* [[Settlement Profile: Nether Refuge]]
+* [[Settlement Profile: Nomad Encampment]]
+* [[Settlement Profile: Northwatch Hamlet]]
+* [[Settlement Profile: Riverside Cooperative]]
+* [[Settlement Profile: Sandsea Collective]]
+* [[Settlement Profile: Skyreach Commune]]
+* [[Settlement Profile: Spawn Commons]]
+* [[Settlement Profile: Sunrise Station]]
+* [[Settlement Profile: Vanguard Keep]]
+
+[[Category:2bZ Wiki]]

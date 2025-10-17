@@ -1,0 +1,19 @@
+{{Short description|Best practices for keeping accounts safe, reducing grief risk, and protecting valuables in an open survival environment}}
+= Safety & Security Center =
+{{2bZ Navbox}}
+__TOC__
+
+Best practices for keeping accounts safe, reducing grief risk, and protecting valuables in
+an open survival environment.
+
+== Account Safety ==
+* Use unique passwords and enable account-level protections.
+* Avoid suspicious downloads and keep clients updated.
+* Report breaches promptly following [[Policy Guide: Security Incident Plan]].
+
+== In-Game Security ==
+* Hide bases using [[Survival Handbook: Base Camouflage]].
+* Rotate storage as outlined in [[Newcomer Guide: Secret Storage Options]].
+* Coordinate patrols via [[Survival Handbook: Night Patrol Routines]].
+
+[[Category:2bZ Wiki]]

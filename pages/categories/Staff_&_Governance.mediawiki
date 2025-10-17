@@ -1,0 +1,29 @@
+{{Short description|Overview of the Staff & Governance pages on the 2bZ wiki}}
+= Category:Staff & Governance =
+{{2bZ Navbox}}
+__NOTOC__
+
+Internal procedures, escalation charts, and the volunteer roles that keep the network stable.
+
+== Featured Pages ==
+* [[Governance Record: Admin Duty Roster]]
+* [[Governance Record: Audit Trail Logging]]
+* [[Governance Record: Communication Standards]]
+* [[Governance Record: Community Liaison Tasks]]
+* [[Governance Record: Event Team Procedures]]
+* [[Governance Record: Feedback Collection]]
+* [[Governance Record: Incident Review]]
+* [[Governance Record: Infrastructure Maintenance]]
+* [[Governance Record: Moderator Playbook]]
+* [[Governance Record: Onboarding New Staff]]
+* [[Governance Record: Public Reports]]
+* [[Governance Record: Security Response]]
+* [[Governance Record: Staff Code of Conduct]]
+* [[Governance Record: Staff Roles Overview]]
+* [[Governance Record: Support Ticket Flow]]
+* [[Governance Record: Technical Operations]]
+* [[Governance Record: Training Curriculum]]
+* [[Governance Record: Transparency Dashboard]]
+* [[Governance Record: Volunteer Recognition]]
+
+[[Category:2bZ Wiki]]

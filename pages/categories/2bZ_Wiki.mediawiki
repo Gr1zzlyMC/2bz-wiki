@@ -1,0 +1,34 @@
+{{Short description|Umbrella category for all documentation on the 2bZ community wiki}}
+= Category:2bZ Wiki =
+{{2bZ Navbox}}
+__NOTOC__
+
+All published guides, histories, and technical briefs on this wiki include the [[Category:2bZ Wiki]] tag so that contributors can audit coverage quickly. Use the category links below to jump directly into a focus area.
+
+== Primary Categories ==
+* [[Category:Newcomer Guides]]
+* [[Category:Quick Start Tutorials]]
+* [[Category:Survival Handbook]]
+* [[Category:Combat Academy]]
+* [[Category:Resource Gathering]]
+* [[Category:Building Styles]]
+* [[Category:Infrastructure Projects]]
+* [[Category:Farms & Automation]]
+* [[Category:Redstone Mechanics]]
+* [[Category:Exploration Logs]]
+* [[Category:Nether Expeditions]]
+* [[Category:End Dimension Strategies]]
+* [[Category:Economy Systems]]
+* [[Category:Trading Outposts]]
+* [[Category:Factions & Diplomacy]]
+* [[Category:Community Events]]
+* [[Category:History & Lore]]
+* [[Category:Landmarks & Regions]]
+* [[Category:Player Settlements]]
+* [[Category:Transportation Network]]
+* [[Category:Technical Reference]]
+* [[Category:Quality of Life Tools]]
+* [[Category:Server Policies]]
+* [[Category:Staff & Governance]]
+
+[[Category:2bZ Wiki]]

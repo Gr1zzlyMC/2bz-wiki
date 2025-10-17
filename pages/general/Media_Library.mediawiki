@@ -1,0 +1,19 @@
+{{Short description|Media archive covering screenshots, cinematics, and timelines that highlight the 2bZ community}}
+= Media Library =
+{{2bZ Navbox}}
+__TOC__
+
+Media archive covering screenshots, cinematics, and timelines that highlight the 2bZ
+community.
+
+== Content Types ==
+* Screenshot submissions from [[Build Inspiration Gallery]].
+* Event footage tied to [[Category:Community Events]].
+* Lore documentaries referenced in [[Category:History & Lore]].
+
+== Contribution Guidelines ==
+* Follow attribution standards in [[Policy Guide: Content Creation Policy]].
+* Store metadata using [[Economy System: Inventory Audit Process]].
+* Report takedown requests via [[Player Support Hub]].
+
+[[Category:2bZ Wiki]]

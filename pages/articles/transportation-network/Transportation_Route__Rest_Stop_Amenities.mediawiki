@@ -1,0 +1,32 @@
+{{Short description|Transportation Route: Rest Stop Amenities explains maintenance plans, travel advisories, and integration points for the rest stop amenities route}}
+= Transportation Route: Rest Stop Amenities =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Transportation Route: Rest Stop Amenities explains maintenance plans, travel advisories,
+and integration points for the rest stop amenities route. This entry links back to
+[[Category:Transportation Network|Transportation Network]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Transportation Route: Rest Stop Amenities''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Transportation Network|Transportation Network]] standards that apply to Transportation Route: Rest Stop Amenities.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Transportation Route: Rest Stop Amenities''' to keep
+the [[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Transportation Route: Logistics Scheduling]]
+* [[Transportation Route: Emergency Detours]]
+* [[Transportation Route: Road Sign Standards]]
+
+[[Category:Transportation Network]]
+[[Category:2bZ Wiki]]

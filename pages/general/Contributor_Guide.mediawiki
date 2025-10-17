@@ -1,0 +1,18 @@
+{{Short description|Editing playbook that keeps articles consistent, sourced, and easy to maintain}}
+= Contributor Guide =
+{{2bZ Navbox}}
+__TOC__
+
+Editing playbook that keeps articles consistent, sourced, and easy to maintain.
+
+== Editorial Standards ==
+* Follow formatting from [[Main Page]].
+* Add categories like [[Category:Newcomer Guides]] where relevant.
+* Cite evidence from in-game screenshots or logs.
+
+== Tools ==
+* Use [[QoL Tool: Device Sync Planning]] to copy notes.
+* Track drafts in [[Technical Brief: Testing Sandbox]].
+* Coordinate merges via [[Governance Record: Staff Roles Overview]].
+
+[[Category:2bZ Wiki]]

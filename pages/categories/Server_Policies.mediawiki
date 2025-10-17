@@ -1,0 +1,29 @@
+{{Short description|Overview of the Server Policies pages on the 2bZ wiki}}
+= Category:Server Policies =
+{{2bZ Navbox}}
+__NOTOC__
+
+Codified expectations that keep gameplay fair, respectful, and creatively focused.
+
+== Featured Pages ==
+* [[Policy Guide: Ban Appeal Guide]]
+* [[Policy Guide: Build Respect Etiquette]]
+* [[Policy Guide: Chat Conduct Rules]]
+* [[Policy Guide: Client Modification Rules]]
+* [[Policy Guide: Collaboration Etiquette]]
+* [[Policy Guide: Community Charter]]
+* [[Policy Guide: Content Creation Policy]]
+* [[Policy Guide: Dispute Resolution Steps]]
+* [[Policy Guide: Duplication Policy]]
+* [[Policy Guide: Event Hosting Policy]]
+* [[Policy Guide: Infrastructure Stewardship]]
+* [[Policy Guide: Lore Canon Guidelines]]
+* [[Policy Guide: Map Art Attribution]]
+* [[Policy Guide: New Player Mentoring]]
+* [[Policy Guide: Privacy and Data Use]]
+* [[Policy Guide: PvP Engagement Rules]]
+* [[Policy Guide: Reporting Workflow]]
+* [[Policy Guide: Resource Claim Etiquette]]
+* [[Policy Guide: Security Incident Plan]]
+
+[[Category:2bZ Wiki]]

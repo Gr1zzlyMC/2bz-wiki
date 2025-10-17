@@ -1,0 +1,19 @@
+{{Short description|Role-based launcher offering curated shortcuts for builders, scouts, traders, and PvP specialists}}
+= Quick Access Portal =
+{{2bZ Navbox}}
+__TOC__
+
+Role-based launcher offering curated shortcuts for builders, scouts, traders, and PvP
+specialists.
+
+== Navigation ==
+* Builders start with [[Build Inspiration Gallery]] and [[Infrastructure Control Center]].
+* Explorers browse [[Exploration Gateway]].
+* PvP teams review [[Competitive Play Hub]].
+
+== Support ==
+* Report issues through [[Player Support Hub]].
+* Use [[Contributor Guide]] for editing standards.
+* Plan events via [[Category:Community Events]].
+
+[[Category:2bZ Wiki]]

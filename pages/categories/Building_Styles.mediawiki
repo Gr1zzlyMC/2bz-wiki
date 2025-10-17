@@ -1,0 +1,29 @@
+{{Short description|Overview of the Building Styles pages on the 2bZ wiki}}
+= Category:Building Styles =
+{{2bZ Navbox}}
+__NOTOC__
+
+Architectural references that highlight the server's most popular design languages and how to replicate them.
+
+== Featured Pages ==
+* [[Building Style: Community Marketplaces]]
+* [[Building Style: Desert Oasis Retreats]]
+* [[Building Style: Floating Island Retreats]]
+* [[Building Style: Forest Village Homesteads]]
+* [[Building Style: Futuristic Transit Hubs]]
+* [[Building Style: High-Tech Labs]]
+* [[Building Style: Industrial Complexes]]
+* [[Building Style: Lore Museum Layouts]]
+* [[Building Style: Medieval Fortresses]]
+* [[Building Style: Minimalist Survival Bases]]
+* [[Building Style: Modern Spawn Builds]]
+* [[Building Style: Mountain Strongholds]]
+* [[Building Style: Ocean Monument Renovations]]
+* [[Building Style: Organic Terraformed Bases]]
+* [[Building Style: PvP Arena Architecture]]
+* [[Building Style: Ruined City Aesthetic]]
+* [[Building Style: Skybase Concepts]]
+* [[Building Style: Steampunk Workshops]]
+* [[Building Style: Underground Hideouts]]
+
+[[Category:2bZ Wiki]]

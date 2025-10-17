@@ -1,0 +1,19 @@
+{{Short description|Directory of featured builds, lore articles, and player achievements maintained by curators}}
+= Community Showcase Index =
+{{2bZ Navbox}}
+__TOC__
+
+Directory of featured builds, lore articles, and player achievements maintained by
+curators.
+
+== Submit Features ==
+* Nominate builds from [[Build Inspiration Gallery]].
+* Highlight stories from [[Category:History & Lore]].
+* Link video coverage in [[Media Library]].
+
+== Archive Structure ==
+* Organized by [[Category:Landmarks & Regions]].
+* Tag contributions with relevant [[Category]] pages.
+* Cross-reference faction efforts via [[Category:Factions & Diplomacy]].
+
+[[Category:2bZ Wiki]]

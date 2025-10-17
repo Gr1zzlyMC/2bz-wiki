@@ -1,0 +1,32 @@
+{{Short description|Technical Brief: Plugin Compatibility provides measurements, experiments, and recommended practices for plugin compatibility considerations}}
+= Technical Brief: Plugin Compatibility =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Technical Brief: Plugin Compatibility provides measurements, experiments, and recommended
+practices for plugin compatibility considerations. This entry links back to
+[[Category:Technical Reference|Technical Reference]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Technical Brief: Plugin Compatibility''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Technical Reference|Technical Reference]] standards that apply to Technical Brief: Plugin Compatibility.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Technical Brief: Plugin Compatibility''' to keep the
+[[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Technical Brief: Command Reference]]
+* [[Technical Brief: Data Pack Catalog]]
+* [[Technical Brief: Anti-Grief Strategies]]
+
+[[Category:Technical Reference]]
+[[Category:2bZ Wiki]]

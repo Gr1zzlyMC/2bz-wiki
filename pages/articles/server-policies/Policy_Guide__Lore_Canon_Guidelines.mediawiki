@@ -1,0 +1,32 @@
+{{Short description|Policy Guide: Lore Canon Guidelines clarifies enforcement scope, rationale, and reporting expectations for lore canon guidelines}}
+= Policy Guide: Lore Canon Guidelines =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Policy Guide: Lore Canon Guidelines clarifies enforcement scope, rationale, and reporting
+expectations for lore canon guidelines. This entry links back to [[Category:Server
+Policies|Server Policies]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Policy Guide: Lore Canon Guidelines''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Server Policies|Server Policies]] standards that apply to Policy Guide: Lore Canon Guidelines.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Policy Guide: Lore Canon Guidelines''' to keep the
+[[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Policy Guide: Infrastructure Stewardship]]
+* [[Policy Guide: Event Hosting Policy]]
+* [[Policy Guide: Collaboration Etiquette]]
+
+[[Category:Server Policies]]
+[[Category:2bZ Wiki]]

@@ -1,0 +1,19 @@
+{{Short description|Live-updated index mapping resource guides to ongoing megaproject requests and stockpile levels}}
+= Resource Planning Dashboard =
+{{2bZ Navbox}}
+__TOC__
+
+Live-updated index mapping resource guides to ongoing megaproject requests and stockpile
+levels.
+
+== Supply Priorities ==
+* Coordinate with [[Category:Resource Gathering]] plans.
+* Automate harvests via [[Category:Farms & Automation]] guides.
+* Log deliveries at [[Infrastructure Project: Logistics Command Centers]].
+
+== Project Support ==
+* Check [[Category:Infrastructure Projects]] to match build needs.
+* Review [[Category:Economy Systems]] for sponsorship options.
+* Update records through [[Economy System: Inventory Audit Process]].
+
+[[Category:2bZ Wiki]]

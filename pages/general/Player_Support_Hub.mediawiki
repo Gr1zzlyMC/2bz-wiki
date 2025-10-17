@@ -1,0 +1,19 @@
+{{Short description|Centralized support center for reporting issues, requesting assistance, and accessing mentoring resources}}
+= Player Support Hub =
+{{2bZ Navbox}}
+__TOC__
+
+Centralized support center for reporting issues, requesting assistance, and accessing
+mentoring resources.
+
+== Help Channels ==
+* Escalate incidents through [[Governance Record: Staff Roles Overview]].
+* Consult [[Policy Guide: Reporting Workflow]] for formal submissions.
+* Join mentoring initiatives described in [[Policy Guide: New Player Mentoring]].
+
+== Knowledge Base ==
+* Link to [[Safety & Security Center]] for protective habits.
+* Review [[Contributor Guide]] before updating documentation.
+* Track resolutions via [[Governance Record: Transparency Dashboard]].
+
+[[Category:2bZ Wiki]]

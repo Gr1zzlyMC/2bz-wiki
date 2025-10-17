@@ -1,0 +1,29 @@
+{{Short description|Overview of the Community Events pages on the 2bZ wiki}}
+= Category:Community Events =
+{{2bZ Navbox}}
+__NOTOC__
+
+Seasonal showcases, competitions, and collaborative projects that bring the server together.
+
+== Featured Pages ==
+* [[Community Event: Anniversary Celebration]]
+* [[Community Event: Build Battle Series]]
+* [[Community Event: Charity Resource Drive]]
+* [[Community Event: Community Awards Night]]
+* [[Community Event: Elytra Race Cup]]
+* [[Community Event: End Expedition Relay]]
+* [[Community Event: Fishing Derby]]
+* [[Community Event: Highway Repair Week]]
+* [[Community Event: Holiday Build Jam]]
+* [[Community Event: Lore Quest Marathon]]
+* [[Community Event: Map Art Expo]]
+* [[Community Event: Nether Sprint Rally]]
+* [[Community Event: Parkour Challenge]]
+* [[Community Event: PvP Invitational]]
+* [[Community Event: Redstone Fair]]
+* [[Community Event: Spawn Festival]]
+* [[Community Event: Speedrun Showdown]]
+* [[Community Event: Storytelling Fireside]]
+* [[Community Event: Treasure Hunt Circuit]]
+
+[[Category:2bZ Wiki]]

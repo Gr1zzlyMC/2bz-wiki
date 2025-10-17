@@ -1,0 +1,32 @@
+{{Short description|Governance Record: Communication Standards details responsibilities, documentation workflows, and accountability steps for communication standards duties}}
+= Governance Record: Communication Standards =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Governance Record: Communication Standards details responsibilities, documentation
+workflows, and accountability steps for communication standards duties. This entry links
+back to [[Category:Staff & Governance|Staff & Governance]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Governance Record: Communication Standards''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Staff & Governance|Staff & Governance]] standards that apply to Governance Record: Communication Standards.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Governance Record: Communication Standards''' to
+keep the [[Community Showcase Index]] current. Coordinate with nearby builders, scouts,
+and logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Governance Record: Audit Trail Logging]]
+* [[Governance Record: Incident Review]]
+* [[Governance Record: Volunteer Recognition]]
+
+[[Category:Staff & Governance]]
+[[Category:2bZ Wiki]]

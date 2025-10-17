@@ -1,0 +1,29 @@
+{{Short description|Overview of the Resource Gathering pages on the 2bZ wiki}}
+= Category:Resource Gathering =
+{{2bZ Navbox}}
+__NOTOC__
+
+Resource acquisition plans for every major material needed to maintain mega-projects and faction stockpiles.
+
+== Featured Pages ==
+* [[Resource Guide: Alchemy Ingredient Runs]]
+* [[Resource Guide: Ancient Debris Recovery]]
+* [[Resource Guide: Clay Collection]]
+* [[Resource Guide: Coal Vein Mapping]]
+* [[Resource Guide: Diamond Hunt Strategy]]
+* [[Resource Guide: Emerald Trading Routes]]
+* [[Resource Guide: Gold Rush Planning]]
+* [[Resource Guide: Gravel Dredging]]
+* [[Resource Guide: Ice Gathering]]
+* [[Resource Guide: Iron Ore Routes]]
+* [[Resource Guide: Lapis Lazuli Runs]]
+* [[Resource Guide: Mob Loot Stockpiles]]
+* [[Resource Guide: Netherite Upgrade Prep]]
+* [[Resource Guide: Obsidian Harvest]]
+* [[Resource Guide: Quartz Harvesting]]
+* [[Resource Guide: Redstone Prospecting]]
+* [[Resource Guide: Sand Quarry Operations]]
+* [[Resource Guide: Wood Farm Rotation]]
+* [[Resource Guide: Wool Harvesting]]
+
+[[Category:2bZ Wiki]]

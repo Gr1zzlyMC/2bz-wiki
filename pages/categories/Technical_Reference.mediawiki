@@ -1,0 +1,29 @@
+{{Short description|Overview of the Technical Reference pages on the 2bZ wiki}}
+= Category:Technical Reference =
+{{2bZ Navbox}}
+__NOTOC__
+
+Mechanics deep dives, server performance notes, and compatibility considerations for large projects.
+
+== Featured Pages ==
+* [[Technical Brief: Anti-Grief Strategies]]
+* [[Technical Brief: Backups and Restores]]
+* [[Technical Brief: Block Update Control]]
+* [[Technical Brief: Bug Report Workflow]]
+* [[Technical Brief: Chunk Loading Policy]]
+* [[Technical Brief: Client Optimization]]
+* [[Technical Brief: Command Reference]]
+* [[Technical Brief: Data Pack Catalog]]
+* [[Technical Brief: Diagnostic Toolkit]]
+* [[Technical Brief: Entity Cramming Tests]]
+* [[Technical Brief: Mob Cap Management]]
+* [[Technical Brief: Performance Benchmarking]]
+* [[Technical Brief: Plugin Compatibility]]
+* [[Technical Brief: Redstone Lag Studies]]
+* [[Technical Brief: Server Hardware Profile]]
+* [[Technical Brief: Simulation Distance Notes]]
+* [[Technical Brief: Testing Sandbox]]
+* [[Technical Brief: Tick Rate Observations]]
+* [[Technical Brief: Version Upgrade Log]]
+
+[[Category:2bZ Wiki]]

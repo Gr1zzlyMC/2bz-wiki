@@ -1,0 +1,18 @@
+{{Short description|Coordination point for PvP events, arena listings, and competitive training material}}
+= Competitive Play Hub =
+{{2bZ Navbox}}
+__TOC__
+
+Coordination point for PvP events, arena listings, and competitive training material.
+
+== Training Guides ==
+* Review [[Category:Combat Academy]] articles for drills.
+* Use [[Combat Academy: Arena Training Layouts]] to set up practice spaces.
+* Track gear maintenance using [[Combat Academy: Gear Repair Cycles]].
+
+== Event Coordination ==
+* Sign up for [[Community Event: PvP Invitational]].
+* Schedule scrims through [[Category:Community Events]] calendar.
+* Share match VODs in [[Media Library]].
+
+[[Category:2bZ Wiki]]

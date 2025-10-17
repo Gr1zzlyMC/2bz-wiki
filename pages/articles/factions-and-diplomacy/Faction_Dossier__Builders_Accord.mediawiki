@@ -1,0 +1,32 @@
+{{Short description|Faction Dossier: Builders Accord summarizes history, membership expectations, and diplomatic ties surrounding the builders accord group}}
+= Faction Dossier: Builders Accord =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Faction Dossier: Builders Accord summarizes history, membership expectations, and
+diplomatic ties surrounding the builders accord group. This entry links back to
+[[Category:Factions & Diplomacy|Factions & Diplomacy]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Faction Dossier: Builders Accord''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Factions & Diplomacy|Factions & Diplomacy]] standards that apply to Faction Dossier: Builders Accord.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Faction Dossier: Builders Accord''' to keep the
+[[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Faction Dossier: Settlement Treaties]]
+* [[Faction Dossier: Founders Council Charter]]
+* [[Faction Dossier: Spawn Guardians Pact]]
+
+[[Category:Factions & Diplomacy]]
+[[Category:2bZ Wiki]]

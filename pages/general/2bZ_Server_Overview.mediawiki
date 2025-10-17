@@ -1,0 +1,19 @@
+{{Short description|Snapshot of server identity, playstyle, and expectations on the long-running 2bZ survival network}}
+= 2bZ Server Overview =
+{{2bZ Navbox}}
+__TOC__
+
+Snapshot of server identity, playstyle, and expectations on the long-running 2bZ survival
+network.
+
+== Core Pillars ==
+* Persistent survival world with community-driven infrastructure.
+* Cooperative focus where players self-govern and document standards.
+* Technical transparency through [[Technical Reference Index]].
+
+== Related Guides ==
+* [[Category:Server Policies]] for official expectations.
+* [[Community Governance Overview]] covering councils and volunteers.
+* [[Resource Planning Dashboard]] outlining logistical priorities.
+
+[[Category:2bZ Wiki]]

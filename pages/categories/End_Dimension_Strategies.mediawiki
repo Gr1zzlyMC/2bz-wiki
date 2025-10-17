@@ -1,0 +1,29 @@
+{{Short description|Overview of the End Dimension Strategies pages on the 2bZ wiki}}
+= Category:End Dimension Strategies =
+{{2bZ Navbox}}
+__NOTOC__
+
+Long-term End planning, from gateway linking to chorus farm layouts and raid staging grounds.
+
+== Featured Pages ==
+* [[End Strategy: Chorus Farm Design]]
+* [[End Strategy: Dragon Egg Archive]]
+* [[End Strategy: Dragon Fight Reset]]
+* [[End Strategy: Elytra Expedition Routes]]
+* [[End Strategy: End Biome Catalog]]
+* [[End Strategy: End City Loot Routing]]
+* [[End Strategy: End Gateway Transit]]
+* [[End Strategy: End Ship Salvage]]
+* [[End Strategy: End Spawn Platform Safety]]
+* [[End Strategy: Ender Chest Supply Chain]]
+* [[End Strategy: Enderman Proofing]]
+* [[End Strategy: Enderman XP Hub]]
+* [[End Strategy: Falling Hazard Mitigation]]
+* [[End Strategy: Gateway Ring Mapping]]
+* [[End Strategy: Obsidian Pillar Mining]]
+* [[End Strategy: Outer End Settlements]]
+* [[End Strategy: Return Portal Logistics]]
+* [[End Strategy: Shulker Combat Guide]]
+* [[End Strategy: Void Safety Measures]]
+
+[[Category:2bZ Wiki]]

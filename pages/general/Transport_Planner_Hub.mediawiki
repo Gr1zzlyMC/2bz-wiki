@@ -1,0 +1,18 @@
+{{Short description|Central routing planner for highways, waterways, flight corridors, and emergency detours}}
+= Transport Planner Hub =
+{{2bZ Navbox}}
+__TOC__
+
+Central routing planner for highways, waterways, flight corridors, and emergency detours.
+
+== Routing Tools ==
+* Consult [[Transportation Route: Waypoint Marker Guide]].
+* Review [[Transportation Route: Emergency Detours]].
+* Sync with [[Transportation Route: Cartography Integration]].
+
+== Traveler Support ==
+* Check rest stops via [[Transportation Route: Rest Stop Amenities]].
+* Coordinate convoys through [[Transportation Route: Logistics Scheduling]].
+* Report hazards at [[Player Support Hub]].
+
+[[Category:2bZ Wiki]]
