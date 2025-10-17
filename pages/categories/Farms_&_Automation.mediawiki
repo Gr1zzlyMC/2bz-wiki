@@ -1,0 +1,29 @@
+{{Short description|Overview of the Farms & Automation pages on the 2bZ wiki}}
+= Category:Farms & Automation =
+{{2bZ Navbox}}
+__NOTOC__
+
+Automated farms that fuel faction war chests and keep day-to-day necessities stocked.
+
+== Featured Pages ==
+* [[Farm Build: Auto Wheat Farm]]
+* [[Farm Build: Bamboo Furnace Fuel]]
+* [[Farm Build: Blaze Rod Refinery]]
+* [[Farm Build: Carrot Harvest Cycle]]
+* [[Farm Build: Gold Piglin Farm]]
+* [[Farm Build: Guardian Farm Operations]]
+* [[Farm Build: Honeycomb Production]]
+* [[Farm Build: Iron Golem Foundry]]
+* [[Farm Build: Kelp Smelting Loop]]
+* [[Farm Build: Melon and Pumpkin Stack]]
+* [[Farm Build: Mob Grinder Layout]]
+* [[Farm Build: Moss Block Mulcher]]
+* [[Farm Build: Potato Yield Optimizer]]
+* [[Farm Build: Raid Farm Scheduling]]
+* [[Farm Build: Shulker Shell Loop]]
+* [[Farm Build: Sugar Cane Array]]
+* [[Farm Build: Villager Crop Farm]]
+* [[Farm Build: Wither Skeleton Farm]]
+* [[Farm Build: Wool Color Matrix]]
+
+[[Category:2bZ Wiki]]

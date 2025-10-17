@@ -1,0 +1,32 @@
+{{Short description|Governance Record: Public Reports details responsibilities, documentation workflows, and accountability steps for public reports duties}}
+= Governance Record: Public Reports =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Governance Record: Public Reports details responsibilities, documentation workflows, and
+accountability steps for public reports duties. This entry links back to [[Category:Staff
+& Governance|Staff & Governance]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Governance Record: Public Reports''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Staff & Governance|Staff & Governance]] standards that apply to Governance Record: Public Reports.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Governance Record: Public Reports''' to keep the
+[[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Governance Record: Transparency Dashboard]]
+* [[Governance Record: Staff Roles Overview]]
+* [[Governance Record: Admin Duty Roster]]
+
+[[Category:Staff & Governance]]
+[[Category:2bZ Wiki]]

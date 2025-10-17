@@ -1,0 +1,32 @@
+{{Short description|Infrastructure Project: Waypoint Obelisks serves as the operations brief for constructing and maintaining the waypoint obelisks initiative}}
+= Infrastructure Project: Waypoint Obelisks =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Infrastructure Project: Waypoint Obelisks serves as the operations brief for constructing
+and maintaining the waypoint obelisks initiative. This entry links back to
+[[Category:Infrastructure Projects|Infrastructure Projects]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Infrastructure Project: Waypoint Obelisks''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Infrastructure Projects|Infrastructure Projects]] standards that apply to Infrastructure Project: Waypoint Obelisks.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Infrastructure Project: Waypoint Obelisks''' to keep
+the [[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Infrastructure Project: Storage Array Planning]]
+* [[Infrastructure Project: Rail System Expansion]]
+* [[Infrastructure Project: Ice Boat Expressways]]
+
+[[Category:Infrastructure Projects]]
+[[Category:2bZ Wiki]]

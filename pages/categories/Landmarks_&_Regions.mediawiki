@@ -1,0 +1,29 @@
+{{Short description|Overview of the Landmarks & Regions pages on the 2bZ wiki}}
+= Category:Landmarks & Regions =
+{{2bZ Navbox}}
+__NOTOC__
+
+Point-of-interest dossiers covering megabuilds, natural wonders, and remote installations.
+
+== Featured Pages ==
+* [[Landmark Profile: Azurewind Harbor]]
+* [[Landmark Profile: Crystal Ridge Keep]]
+* [[Landmark Profile: Emberstone Bastion]]
+* [[Landmark Profile: Endwatch Bastion]]
+* [[Landmark Profile: Frostwall Citadel]]
+* [[Landmark Profile: Gilded Savannah]]
+* [[Landmark Profile: Golem Valley]]
+* [[Landmark Profile: Luminous Caverns]]
+* [[Landmark Profile: Mushroom Coast Refuge]]
+* [[Landmark Profile: Obsidian Sanctuary]]
+* [[Landmark Profile: Old Capital Ruins]]
+* [[Landmark Profile: Shattered Mesa]]
+* [[Landmark Profile: Skylight Sanctum]]
+* [[Landmark Profile: Spawn Obelisk Plaza]]
+* [[Landmark Profile: Starfall Observatory]]
+* [[Landmark Profile: Sunspire Canyon]]
+* [[Landmark Profile: Verdant Basin]]
+* [[Landmark Profile: Voidwatch Outpost]]
+* [[Landmark Profile: Whispering Pines]]
+
+[[Category:2bZ Wiki]]

@@ -1,0 +1,32 @@
+{{Short description|Governance Record: Community Liaison Tasks details responsibilities, documentation workflows, and accountability steps for community liaison tasks duties}}
+= Governance Record: Community Liaison Tasks =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Governance Record: Community Liaison Tasks details responsibilities, documentation
+workflows, and accountability steps for community liaison tasks duties. This entry links
+back to [[Category:Staff & Governance|Staff & Governance]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Governance Record: Community Liaison Tasks''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Staff & Governance|Staff & Governance]] standards that apply to Governance Record: Community Liaison Tasks.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Governance Record: Community Liaison Tasks''' to
+keep the [[Community Showcase Index]] current. Coordinate with nearby builders, scouts,
+and logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Governance Record: Event Team Procedures]]
+* [[Governance Record: Technical Operations]]
+* [[Governance Record: Infrastructure Maintenance]]
+
+[[Category:Staff & Governance]]
+[[Category:2bZ Wiki]]

@@ -1,0 +1,29 @@
+{{Short description|Overview of the Exploration Logs pages on the 2bZ wiki}}
+= Category:Exploration Logs =
+{{2bZ Navbox}}
+__NOTOC__
+
+Field notes and scouting reports from ambitious explorers charting the overworld beyond spawn.
+
+== Featured Pages ==
+* [[Exploration Log: Ancient City Findings]]
+* [[Exploration Log: Badlands Ruin Mapping]]
+* [[Exploration Log: Deep Dark Expedition]]
+* [[Exploration Log: Dripstone Cavern Notes]]
+* [[Exploration Log: Frozen Peaks Traverse]]
+* [[Exploration Log: Jungle Expedition Report]]
+* [[Exploration Log: Lush Cave Survey]]
+* [[Exploration Log: Mega Taiga Archives]]
+* [[Exploration Log: Mesa Frontier Notes]]
+* [[Exploration Log: Mushroom Island Catalog]]
+* [[Exploration Log: Ocean Monument Recon]]
+* [[Exploration Log: Rare Structure Sighting]]
+* [[Exploration Log: Savanna Trail Guide]]
+* [[Exploration Log: Spawn Ring Survey]]
+* [[Exploration Log: Stronghold Watchlist]]
+* [[Exploration Log: Sunken Ship Registry]]
+* [[Exploration Log: Swampland Findings]]
+* [[Exploration Log: Taiga Recon Log]]
+* [[Exploration Log: Village Network Mapping]]
+
+[[Category:2bZ Wiki]]

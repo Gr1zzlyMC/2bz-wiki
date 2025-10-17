@@ -1,0 +1,19 @@
+{{Short description|Explainer covering councils, volunteer crews, and collaborative decision-making traditions on 2bZ}}
+= Community Governance Overview =
+{{2bZ Navbox}}
+__TOC__
+
+Explainer covering councils, volunteer crews, and collaborative decision-making traditions
+on 2bZ.
+
+== Governance Bodies ==
+* [[Faction Dossier: Founders Council Charter]].
+* [[Faction Dossier: Logistics Bureau]].
+* [[Governance Record: Community Liaison Tasks]].
+
+== Participation ==
+* Attend forums advertised on [[Category:Community Events]].
+* Submit proposals via [[Governance Record: Transparency Dashboard]].
+* Track decisions in [[Governance Record: Incident Review]].
+
+[[Category:2bZ Wiki]]

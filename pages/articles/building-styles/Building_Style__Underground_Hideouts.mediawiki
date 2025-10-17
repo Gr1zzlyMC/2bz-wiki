@@ -1,0 +1,32 @@
+{{Short description|Building Style: Underground Hideouts highlights signature design motifs, block palettes, and layout tips for the underground hideouts aesthetic}}
+= Building Style: Underground Hideouts =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Building Style: Underground Hideouts highlights signature design motifs, block palettes,
+and layout tips for the underground hideouts aesthetic. This entry links back to
+[[Category:Building Styles|Building Styles]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Building Style: Underground Hideouts''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Building Styles|Building Styles]] standards that apply to Building Style: Underground Hideouts.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Building Style: Underground Hideouts''' to keep the
+[[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Building Style: Skybase Concepts]]
+* [[Building Style: Ocean Monument Renovations]]
+* [[Building Style: Desert Oasis Retreats]]
+
+[[Category:Building Styles]]
+[[Category:2bZ Wiki]]

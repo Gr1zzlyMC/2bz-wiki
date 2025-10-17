@@ -1,0 +1,19 @@
+{{Short description|Rolling changelog summarizing plugin tweaks, content additions, and technical maintenance windows}}
+= Update & Patch Archive =
+{{2bZ Navbox}}
+__TOC__
+
+Rolling changelog summarizing plugin tweaks, content additions, and technical maintenance
+windows.
+
+== How to Log Updates ==
+* Record date, time, and summary for each patch.
+* Reference affected systems like [[Category:Infrastructure Projects]].
+* Link related bug tickets from [[Technical Brief: Bug Report Workflow]].
+
+== Research ==
+* Compare against [[Technical Brief: Version Upgrade Log]].
+* Highlight impacts to [[Category:Economy Systems]].
+* Notify players through [[Quick Access Portal]].
+
+[[Category:2bZ Wiki]]

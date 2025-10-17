@@ -1,0 +1,19 @@
+{{Short description|High-level chronology referencing the major eras documented within [[History & Lore]] articles}}
+= Server Timeline Overview =
+{{2bZ Navbox}}
+__TOC__
+
+High-level chronology referencing the major eras documented within [[History & Lore]]
+articles.
+
+== Milestone Index ==
+* [[Category:History & Lore]] curates era-specific writeups.
+* [[Update & Patch Archive]] logs version upgrades.
+* [[Community Governance Overview]] highlights leadership shifts.
+
+== How to Contribute ==
+* Submit sources on the talk pages of key history entries.
+* Coordinate interviews with veteran players via [[Player Support Hub]].
+* Flag timeline gaps for archivists in [[Contributor Guide]].
+
+[[Category:2bZ Wiki]]

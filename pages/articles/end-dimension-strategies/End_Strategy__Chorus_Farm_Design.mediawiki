@@ -1,0 +1,32 @@
+{{Short description|End Strategy: Chorus Farm Design prepares crews for chorus farm design objectives in the End, covering transport, safety, and loot recovery}}
+= End Strategy: Chorus Farm Design =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+End Strategy: Chorus Farm Design prepares crews for chorus farm design objectives in the
+End, covering transport, safety, and loot recovery. This entry links back to
+[[Category:End Dimension Strategies|End Dimension Strategies]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''End Strategy: Chorus Farm Design''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:End Dimension Strategies|End Dimension Strategies]] standards that apply to End Strategy: Chorus Farm Design.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''End Strategy: Chorus Farm Design''' to keep the
+[[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[End Strategy: Dragon Fight Reset]]
+* [[End Strategy: Enderman XP Hub]]
+* [[End Strategy: Void Safety Measures]]
+
+[[Category:End Dimension Strategies]]
+[[Category:2bZ Wiki]]

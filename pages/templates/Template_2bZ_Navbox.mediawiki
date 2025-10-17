@@ -1,0 +1,26 @@
+<includeonly>{| class="wikitable" style="width:100%; background:#0b0d17; color:#f4f4f4; border:2px solid #3a6ea5;"
+! colspan="3" style="text-align:center; font-size:1.4em; background:#1b2333;" | 2bZ Wiki Navigation
+|-
+| style="width:33%; vertical-align:top;" |
+; Orientation
+:[[Main Page]]
+:[[Quick Access Portal]]
+:[[Player Support Hub]]
+:[[Safety & Security Center]]
+| style="width:33%; vertical-align:top;" |
+; Build & Explore
+:[[Build Inspiration Gallery]]
+:[[Infrastructure Control Center]]
+:[[Exploration Gateway]]
+:[[Transport Planner Hub]]
+| style="width:33%; vertical-align:top;" |
+; Reference
+:[[Technical Reference Index]]
+:[[Resource Planning Dashboard]]
+:[[Community Governance Overview]]
+:[[Update & Patch Archive]]
+|-
+| colspan="3" style="text-align:center; background:#1b2333;" | Categories: [[Category:Newcomer Guides]] · [[Category:Resource Gathering]] · [[Category:Community Events]] · [[Category:Technical Reference]]
+|}</includeonly><noinclude>
+{{Documentation|content=Navigation template linking the primary hubs of the 2bZ community wiki.}}
+</noinclude>

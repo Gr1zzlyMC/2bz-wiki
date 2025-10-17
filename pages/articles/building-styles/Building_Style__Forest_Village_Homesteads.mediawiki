@@ -1,0 +1,32 @@
+{{Short description|Building Style: Forest Village Homesteads highlights signature design motifs, block palettes, and layout tips for the forest village homesteads aesthetic}}
+= Building Style: Forest Village Homesteads =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Building Style: Forest Village Homesteads highlights signature design motifs, block
+palettes, and layout tips for the forest village homesteads aesthetic. This entry links
+back to [[Category:Building Styles|Building Styles]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Building Style: Forest Village Homesteads''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Building Styles|Building Styles]] standards that apply to Building Style: Forest Village Homesteads.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Building Style: Forest Village Homesteads''' to keep
+the [[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Building Style: Mountain Strongholds]]
+* [[Building Style: Floating Island Retreats]]
+* [[Building Style: Ruined City Aesthetic]]
+
+[[Category:Building Styles]]
+[[Category:2bZ Wiki]]

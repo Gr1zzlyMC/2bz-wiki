@@ -1,0 +1,32 @@
+{{Short description|Faction Dossier: Endfarer Alliance summarizes history, membership expectations, and diplomatic ties surrounding the endfarer alliance group}}
+= Faction Dossier: Endfarer Alliance =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Faction Dossier: Endfarer Alliance summarizes history, membership expectations, and
+diplomatic ties surrounding the endfarer alliance group. This entry links back to
+[[Category:Factions & Diplomacy|Factions & Diplomacy]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Faction Dossier: Endfarer Alliance''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Factions & Diplomacy|Factions & Diplomacy]] standards that apply to Faction Dossier: Endfarer Alliance.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Faction Dossier: Endfarer Alliance''' to keep the
+[[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Faction Dossier: Peacekeeper Mediation]]
+* [[Faction Dossier: Logistics Bureau]]
+* [[Faction Dossier: Builders Accord]]
+
+[[Category:Factions & Diplomacy]]
+[[Category:2bZ Wiki]]

@@ -1,0 +1,19 @@
+{{Short description|Operations board for monitoring major public works, maintenance queues, and expansion priorities}}
+= Infrastructure Control Center =
+{{2bZ Navbox}}
+__TOC__
+
+Operations board for monitoring major public works, maintenance queues, and expansion
+priorities.
+
+== Key Networks ==
+* [[Infrastructure Project: Overworld Highway Grid]] maintenance schedule.
+* [[Infrastructure Project: Portal Hub Engineering]] tasks.
+* [[Infrastructure Project: Signal Tower Network]] coverage map.
+
+== Coordination ==
+* Assign crews via [[Infrastructure Project: Logistics Command Centers]].
+* Log completed work in [[Infrastructure Project: Maintenance Scheduling]].
+* Forecast resources through [[Resource Planning Dashboard]].
+
+[[Category:2bZ Wiki]]

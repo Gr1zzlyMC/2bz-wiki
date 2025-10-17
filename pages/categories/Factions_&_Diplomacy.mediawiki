@@ -1,0 +1,29 @@
+{{Short description|Overview of the Factions & Diplomacy pages on the 2bZ wiki}}
+= Category:Factions & Diplomacy =
+{{2bZ Navbox}}
+__NOTOC__
+
+Histories and operating procedures for long-standing factions, alliances, and peace accords across the server.
+
+== Featured Pages ==
+* [[Faction Dossier: Archivist Circle]]
+* [[Faction Dossier: Artisans Assembly]]
+* [[Faction Dossier: Atlas Cartographers]]
+* [[Faction Dossier: Builders Accord]]
+* [[Faction Dossier: Endfarer Alliance]]
+* [[Faction Dossier: Farmers Cooperative]]
+* [[Faction Dossier: Founders Council Charter]]
+* [[Faction Dossier: Highway Collective]]
+* [[Faction Dossier: Logistics Bureau]]
+* [[Faction Dossier: Lorekeepers Union]]
+* [[Faction Dossier: Nether Navigators]]
+* [[Faction Dossier: Night Watch Sentinels]]
+* [[Faction Dossier: Nomad Fellowship]]
+* [[Faction Dossier: Peacekeeper Mediation]]
+* [[Faction Dossier: Redstone Syndicate]]
+* [[Faction Dossier: Settlement Treaties]]
+* [[Faction Dossier: Skybuilders League]]
+* [[Faction Dossier: Spawn Guardians Pact]]
+* [[Faction Dossier: Vanguard Militia]]
+
+[[Category:2bZ Wiki]]

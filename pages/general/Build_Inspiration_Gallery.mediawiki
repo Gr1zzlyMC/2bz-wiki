@@ -1,0 +1,19 @@
+{{Short description|Curated showcase linking to standout architecture, terraforming, and public works across the server}}
+= Build Inspiration Gallery =
+{{2bZ Navbox}}
+__TOC__
+
+Curated showcase linking to standout architecture, terraforming, and public works across
+the server.
+
+== Featured Styles ==
+* [[Building Style: Modern Spawn Builds]] and [[Building Style: Steampunk Workshops]].
+* [[Building Style: Organic Terraformed Bases]] for landscape integration ideas.
+* [[Building Style: Community Marketplaces]] supporting trade hubs.
+
+== Share Your Work ==
+* Submit screenshots via [[Media Library]].
+* Document specs on relevant [[Category:Building Styles]] pages.
+* Coordinate tours through [[Category:Community Events]] listings.
+
+[[Category:2bZ Wiki]]

@@ -1,0 +1,19 @@
+{{Short description|Explorer-focused landing page tying together scouting notes, survival plans, and structure dossiers}}
+= Exploration Gateway =
+{{2bZ Navbox}}
+__TOC__
+
+Explorer-focused landing page tying together scouting notes, survival plans, and structure
+dossiers.
+
+== Plan Your Route ==
+* Start with [[Exploration Log: Spawn Ring Survey]].
+* Log discoveries under [[Category:Exploration Logs]] entries.
+* Coordinate returns using [[Nether Expedition: Return Route Safeguards]].
+
+== Support Resources ==
+* Pack supplies listed in [[Survival Handbook: Endurance Travel]].
+* Share maps within [[Transportation Route: Cartography Integration]].
+* Archive findings at [[Community Showcase Index]].
+
+[[Category:2bZ Wiki]]

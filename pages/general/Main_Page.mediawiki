@@ -1,0 +1,19 @@
+{{Short description|Welcome hub for the 2bZ community wiki, featuring curated routes for builders, fighters, traders, and explorers}}
+= Main Page =
+{{2bZ Navbox}}
+__TOC__
+
+Welcome hub for the 2bZ community wiki, featuring curated routes for builders, fighters,
+traders, and explorers.
+
+== Start Here ==
+* Visit [[Newcomer Guide: Orientation Tour]] for first-day orientation.
+* Review [[2bZ Server Overview]] to understand the survival philosophy.
+* Browse [[Quick Access Portal]] for role-specific shortcuts.
+
+== Active Highlights ==
+* Check [[Update & Patch Archive]] for the latest changelog.
+* Submit builds to [[Community Showcase Index]].
+* Coordinate travel via [[Transport Planner Hub]].
+
+[[Category:2bZ Wiki]]

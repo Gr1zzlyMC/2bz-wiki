@@ -1,0 +1,29 @@
+{{Short description|Overview of the Newcomer Guides pages on the 2bZ wiki}}
+= Category:Newcomer Guides =
+{{2bZ Navbox}}
+__NOTOC__
+
+Guides that help new arrivals on play.2bz.org settle in, make smart first-day decisions, and integrate with the wider survival community.
+
+== Featured Pages ==
+* [[Newcomer Guide: Anarchy Survival Mindset]]
+* [[Newcomer Guide: Community Chat Etiquette]]
+* [[Newcomer Guide: Crafting Essentials]]
+* [[Newcomer Guide: Early Resource Priorities]]
+* [[Newcomer Guide: First Night Survival]]
+* [[Newcomer Guide: Managing Hunger]]
+* [[Newcomer Guide: Orientation Tour]]
+* [[Newcomer Guide: Performance Optimization]]
+* [[Newcomer Guide: Protecting Temporary Bases]]
+* [[Newcomer Guide: Respawn Planning]]
+* [[Newcomer Guide: Safe Logout Practices]]
+* [[Newcomer Guide: Secret Storage Options]]
+* [[Newcomer Guide: Setting Personal Goals]]
+* [[Newcomer Guide: Shared Resource Rooms]]
+* [[Newcomer Guide: Spawn Basics]]
+* [[Newcomer Guide: Starter Kit Setup]]
+* [[Newcomer Guide: Sustainable Progress Habits]]
+* [[Newcomer Guide: Tool Durability Planning]]
+* [[Newcomer Guide: Travel Safety Planning]]
+
+[[Category:2bZ Wiki]]

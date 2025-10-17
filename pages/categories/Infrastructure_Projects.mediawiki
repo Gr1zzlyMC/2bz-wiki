@@ -1,0 +1,29 @@
+{{Short description|Overview of the Infrastructure Projects pages on the 2bZ wiki}}
+= Category:Infrastructure Projects =
+{{2bZ Navbox}}
+__NOTOC__
+
+Large-scale logistical builds that keep travel, trading, and communications functioning smoothly across 2bZ.
+
+== Featured Pages ==
+* [[Infrastructure Project: Beacon Pyramid Network]]
+* [[Infrastructure Project: Border Watchposts]]
+* [[Infrastructure Project: Emergency Shelter Chain]]
+* [[Infrastructure Project: End Gateway Integration]]
+* [[Infrastructure Project: Ice Boat Expressways]]
+* [[Infrastructure Project: Logistics Command Centers]]
+* [[Infrastructure Project: Maintenance Scheduling]]
+* [[Infrastructure Project: Map Art Galleries]]
+* [[Infrastructure Project: Nether Highway Upkeep]]
+* [[Infrastructure Project: Overworld Highway Grid]]
+* [[Infrastructure Project: Portal Hub Engineering]]
+* [[Infrastructure Project: Public Farm Nexus]]
+* [[Infrastructure Project: Rail System Expansion]]
+* [[Infrastructure Project: Resupply Depot Layouts]]
+* [[Infrastructure Project: Signal Tower Network]]
+* [[Infrastructure Project: Spawn Bypass Routes]]
+* [[Infrastructure Project: Storage Array Planning]]
+* [[Infrastructure Project: Underground Transit Lines]]
+* [[Infrastructure Project: Waypoint Obelisks]]
+
+[[Category:2bZ Wiki]]

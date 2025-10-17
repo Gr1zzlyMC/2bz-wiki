@@ -1,0 +1,29 @@
+{{Short description|Overview of the Nether Expeditions pages on the 2bZ wiki}}
+= Category:Nether Expeditions =
+{{2bZ Navbox}}
+__NOTOC__
+
+Strategies and maps for navigating the Nether safely while controlling blaze, wither skeleton, and piglin encounters.
+
+== Featured Pages ==
+* [[Nether Expedition: Ancient Debris Scouting]]
+* [[Nether Expedition: Basalt Delta Navigation]]
+* [[Nether Expedition: Bastion Reconnaissance]]
+* [[Nether Expedition: Blaze Spawner Tactics]]
+* [[Nether Expedition: Crimson Forest Logistics]]
+* [[Nether Expedition: Ender Pearl Collection]]
+* [[Nether Expedition: Fortress Control Plan]]
+* [[Nether Expedition: Lava Lake Crossings]]
+* [[Nether Expedition: Nether Roof Access]]
+* [[Nether Expedition: Nether Spawn Hub Guide]]
+* [[Nether Expedition: Nether Weathering Plan]]
+* [[Nether Expedition: Piglin Trading Outposts]]
+* [[Nether Expedition: Portal Link Calibration]]
+* [[Nether Expedition: Resource Cache Locations]]
+* [[Nether Expedition: Return Route Safeguards]]
+* [[Nether Expedition: Soul Sand Valley Prep]]
+* [[Nether Expedition: Strider Ferry Routes]]
+* [[Nether Expedition: Warped Forest Safety]]
+* [[Nether Expedition: Wither Hunt Camps]]
+
+[[Category:2bZ Wiki]]

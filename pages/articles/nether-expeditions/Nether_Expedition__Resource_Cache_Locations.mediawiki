@@ -1,0 +1,32 @@
+{{Short description|Nether Expedition: Resource Cache Locations shares navigation strategies and combat prep specific to resource cache locations missions in the Nether}}
+= Nether Expedition: Resource Cache Locations =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Nether Expedition: Resource Cache Locations shares navigation strategies and combat prep
+specific to resource cache locations missions in the Nether. This entry links back to
+[[Category:Nether Expeditions|Nether Expeditions]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Nether Expedition: Resource Cache Locations''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Nether Expeditions|Nether Expeditions]] standards that apply to Nether Expedition: Resource Cache Locations.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Nether Expedition: Resource Cache Locations''' to
+keep the [[Community Showcase Index]] current. Coordinate with nearby builders, scouts,
+and logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Nether Expedition: Nether Spawn Hub Guide]]
+* [[Nether Expedition: Bastion Reconnaissance]]
+* [[Nether Expedition: Fortress Control Plan]]
+
+[[Category:Nether Expeditions]]
+[[Category:2bZ Wiki]]

@@ -1,0 +1,32 @@
+{{Short description|Policy Guide: Privacy and Data Use clarifies enforcement scope, rationale, and reporting expectations for privacy and data use}}
+= Policy Guide: Privacy and Data Use =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Policy Guide: Privacy and Data Use clarifies enforcement scope, rationale, and reporting
+expectations for privacy and data use. This entry links back to [[Category:Server
+Policies|Server Policies]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Policy Guide: Privacy and Data Use''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Server Policies|Server Policies]] standards that apply to Policy Guide: Privacy and Data Use.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Policy Guide: Privacy and Data Use''' to keep the
+[[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Policy Guide: Dispute Resolution Steps]]
+* [[Policy Guide: Community Charter]]
+* [[Policy Guide: Reporting Workflow]]
+
+[[Category:Server Policies]]
+[[Category:2bZ Wiki]]

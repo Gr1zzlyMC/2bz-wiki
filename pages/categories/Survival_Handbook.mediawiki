@@ -1,0 +1,29 @@
+{{Short description|Overview of the Survival Handbook pages on the 2bZ wiki}}
+= Category:Survival Handbook =
+{{2bZ Navbox}}
+__NOTOC__
+
+Long-form survival references for thriving through harsh weather, mob-packed nights, and long expeditions across 2bZ.
+
+== Featured Pages ==
+* [[Survival Handbook: Backup Gear Kits]]
+* [[Survival Handbook: Base Camouflage]]
+* [[Survival Handbook: Emergency Medical Supplies]]
+* [[Survival Handbook: Endurance Travel]]
+* [[Survival Handbook: Fire Resistance Planning]]
+* [[Survival Handbook: Inventory Management]]
+* [[Survival Handbook: Long-Term Food Security]]
+* [[Survival Handbook: Night Patrol Routines]]
+* [[Survival Handbook: Raid Response]]
+* [[Survival Handbook: Remote Farming]]
+* [[Survival Handbook: Safehouse Rotation]]
+* [[Survival Handbook: Seasonal Migration Plans]]
+* [[Survival Handbook: Signal Beacon Usage]]
+* [[Survival Handbook: Supply Cache Networks]]
+* [[Survival Handbook: Surface Scouting]]
+* [[Survival Handbook: Sustainable Mining Routes]]
+* [[Survival Handbook: Underground Shelter Design]]
+* [[Survival Handbook: Waterway Navigation]]
+* [[Survival Handbook: Weather Preparedness]]
+
+[[Category:2bZ Wiki]]

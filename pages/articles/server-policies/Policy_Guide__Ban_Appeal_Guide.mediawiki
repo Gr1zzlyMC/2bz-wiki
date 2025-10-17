@@ -1,0 +1,32 @@
+{{Short description|Policy Guide: Ban Appeal Guide clarifies enforcement scope, rationale, and reporting expectations for ban appeal guide}}
+= Policy Guide: Ban Appeal Guide =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Policy Guide: Ban Appeal Guide clarifies enforcement scope, rationale, and reporting
+expectations for ban appeal guide. This entry links back to [[Category:Server
+Policies|Server Policies]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Policy Guide: Ban Appeal Guide''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Server Policies|Server Policies]] standards that apply to Policy Guide: Ban Appeal Guide.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Policy Guide: Ban Appeal Guide''' to keep the
+[[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Policy Guide: Chat Conduct Rules]]
+* [[Policy Guide: Build Respect Etiquette]]
+* [[Policy Guide: Duplication Policy]]
+
+[[Category:Server Policies]]
+[[Category:2bZ Wiki]]

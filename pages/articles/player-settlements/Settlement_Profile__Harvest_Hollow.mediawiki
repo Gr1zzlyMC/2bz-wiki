@@ -1,0 +1,32 @@
+{{Short description|Settlement Profile: Harvest Hollow lists resident guidelines, visitor etiquette, and amenities maintained at the harvest hollow settlement}}
+= Settlement Profile: Harvest Hollow =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Settlement Profile: Harvest Hollow lists resident guidelines, visitor etiquette, and
+amenities maintained at the harvest hollow settlement. This entry links back to
+[[Category:Player Settlements|Player Settlements]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Settlement Profile: Harvest Hollow''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Player Settlements|Player Settlements]] standards that apply to Settlement Profile: Harvest Hollow.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Settlement Profile: Harvest Hollow''' to keep the
+[[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Settlement Profile: Beacon Heights]]
+* [[Settlement Profile: Spawn Commons]]
+* [[Settlement Profile: Northwatch Hamlet]]
+
+[[Category:Player Settlements]]
+[[Category:2bZ Wiki]]

@@ -1,0 +1,32 @@
+{{Short description|Resource Guide: Wool Harvesting maps out optimal loops for sourcing wool harvesting while minimizing risk and travel time}}
+= Resource Guide: Wool Harvesting =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Resource Guide: Wool Harvesting maps out optimal loops for sourcing wool harvesting while
+minimizing risk and travel time. This entry links back to [[Category:Resource
+Gathering|Resource Gathering]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Resource Guide: Wool Harvesting''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Resource Gathering|Resource Gathering]] standards that apply to Resource Guide: Wool Harvesting.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Resource Guide: Wool Harvesting''' to keep the
+[[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Resource Guide: Mob Loot Stockpiles]]
+* [[Resource Guide: Alchemy Ingredient Runs]]
+* [[Resource Guide: Iron Ore Routes]]
+
+[[Category:Resource Gathering]]
+[[Category:2bZ Wiki]]

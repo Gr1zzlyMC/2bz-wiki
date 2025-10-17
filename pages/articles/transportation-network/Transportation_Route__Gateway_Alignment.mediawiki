@@ -1,0 +1,32 @@
+{{Short description|Transportation Route: Gateway Alignment explains maintenance plans, travel advisories, and integration points for the gateway alignment route}}
+= Transportation Route: Gateway Alignment =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Transportation Route: Gateway Alignment explains maintenance plans, travel advisories, and
+integration points for the gateway alignment route. This entry links back to
+[[Category:Transportation Network|Transportation Network]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Transportation Route: Gateway Alignment''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Transportation Network|Transportation Network]] standards that apply to Transportation Route: Gateway Alignment.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Transportation Route: Gateway Alignment''' to keep
+the [[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Transportation Route: Ender Pearl Staging]]
+* [[Transportation Route: Skybridge Maintenance]]
+* [[Transportation Route: Tunnel Boring Crew]]
+
+[[Category:Transportation Network]]
+[[Category:2bZ Wiki]]

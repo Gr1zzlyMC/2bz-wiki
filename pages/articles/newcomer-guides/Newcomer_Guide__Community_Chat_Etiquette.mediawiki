@@ -1,0 +1,33 @@
+{{Short description|Newcomer Guide: Community Chat Etiquette walks new survivors through the community chat etiquette aspect of spawn life so they can acclimate quickly and avoid early setbacks}}
+= Newcomer Guide: Community Chat Etiquette =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Newcomer Guide: Community Chat Etiquette walks new survivors through the community chat
+etiquette aspect of spawn life so they can acclimate quickly and avoid early setbacks.
+This entry links back to [[Category:Newcomer Guides|Newcomer Guides]] for additional
+context.
+
+== Core Strategies ==
+* Focus on how '''Newcomer Guide: Community Chat Etiquette''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Newcomer Guides|Newcomer Guides]] standards that apply to Newcomer Guide: Community Chat Etiquette.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Newcomer Guide: Community Chat Etiquette''' to keep
+the [[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Newcomer Guide: Protecting Temporary Bases]]
+* [[Newcomer Guide: Travel Safety Planning]]
+* [[Newcomer Guide: Early Resource Priorities]]
+
+[[Category:Newcomer Guides]]
+[[Category:2bZ Wiki]]

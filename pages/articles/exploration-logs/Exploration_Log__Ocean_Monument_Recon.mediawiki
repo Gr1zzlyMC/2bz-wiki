@@ -1,0 +1,32 @@
+{{Short description|Exploration Log: Ocean Monument Recon compiles field notes, coordinates, and hazards encountered while surveying the ocean monument recon region}}
+= Exploration Log: Ocean Monument Recon =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Exploration Log: Ocean Monument Recon compiles field notes, coordinates, and hazards
+encountered while surveying the ocean monument recon region. This entry links back to
+[[Category:Exploration Logs|Exploration Logs]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Exploration Log: Ocean Monument Recon''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Exploration Logs|Exploration Logs]] standards that apply to Exploration Log: Ocean Monument Recon.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Exploration Log: Ocean Monument Recon''' to keep the
+[[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Exploration Log: Mushroom Island Catalog]]
+* [[Exploration Log: Deep Dark Expedition]]
+* [[Exploration Log: Ancient City Findings]]
+
+[[Category:Exploration Logs]]
+[[Category:2bZ Wiki]]

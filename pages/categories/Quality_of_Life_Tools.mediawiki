@@ -1,0 +1,29 @@
+{{Short description|Overview of the Quality of Life Tools pages on the 2bZ wiki}}
+= Category:Quality of Life Tools =
+{{2bZ Navbox}}
+__NOTOC__
+
+Mods, settings, and optional enhancements that improve readability and reduce grind while respecting server rules.
+
+== Featured Pages ==
+* [[QoL Tool: AFK Notification Setup]]
+* [[QoL Tool: Accessibility Options]]
+* [[QoL Tool: Build Planning Apps]]
+* [[QoL Tool: Chat Filter Tools]]
+* [[QoL Tool: Client Settings Checklist]]
+* [[QoL Tool: Cloud Backup Tips]]
+* [[QoL Tool: Coordinate Tracking]]
+* [[QoL Tool: Device Sync Planning]]
+* [[QoL Tool: Inventory Tweaks]]
+* [[QoL Tool: Lighting Enhancements]]
+* [[QoL Tool: Macro Policy Overview]]
+* [[QoL Tool: Minimal HUD Setup]]
+* [[QoL Tool: Performance Mod Profiles]]
+* [[QoL Tool: Replay Mod Usage]]
+* [[QoL Tool: Resource Pack Library]]
+* [[QoL Tool: Screenshot Workflow]]
+* [[QoL Tool: Sound Tuning Guide]]
+* [[QoL Tool: Spawn Alert Systems]]
+* [[QoL Tool: Waypoint Mods]]
+
+[[Category:2bZ Wiki]]

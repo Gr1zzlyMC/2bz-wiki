@@ -1,0 +1,32 @@
+{{Short description|Community Event: Charity Resource Drive captures format, signup steps, and highlight reels from the charity resource drive celebration}}
+= Community Event: Charity Resource Drive =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Community Event: Charity Resource Drive captures format, signup steps, and highlight reels
+from the charity resource drive celebration. This entry links back to [[Category:Community
+Events|Community Events]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Community Event: Charity Resource Drive''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Community Events|Community Events]] standards that apply to Community Event: Charity Resource Drive.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Community Event: Charity Resource Drive''' to keep
+the [[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Community Event: Speedrun Showdown]]
+* [[Community Event: Elytra Race Cup]]
+* [[Community Event: Fishing Derby]]
+
+[[Category:Community Events]]
+[[Category:2bZ Wiki]]

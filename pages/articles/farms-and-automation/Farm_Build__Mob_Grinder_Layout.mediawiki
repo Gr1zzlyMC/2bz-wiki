@@ -1,0 +1,32 @@
+{{Short description|Farm Build: Mob Grinder Layout outlines reliable redstone layouts and harvest cycles for a sustainable mob grinder layout setup}}
+= Farm Build: Mob Grinder Layout =
+{{2bZ Navbox}}
+__TOC__
+
+== Overview ==
+Farm Build: Mob Grinder Layout outlines reliable redstone layouts and harvest cycles for a
+sustainable mob grinder layout setup. This entry links back to [[Category:Farms &
+Automation|Farms & Automation]] for additional context.
+
+== Core Strategies ==
+* Focus on how '''Farm Build: Mob Grinder Layout''' supports long-term progress on [[play.2bz.org]].
+* Combine this guidance with insights from [[2bZ Server Overview]] and [[Quick Access Portal]].
+* Align preparation with travel routes listed in [[Transport Planner Hub]].
+
+== Action Checklist ==
+# Review the [[Category:Farms & Automation|Farms & Automation]] standards that apply to Farm Build: Mob Grinder Layout.
+# Apply the guidance at your current base and log results on the [[Player Support Hub]].
+# Share feedback with teammates via in-game chat or the community channels.
+
+== Collaboration Opportunities ==
+Players document their findings on '''Farm Build: Mob Grinder Layout''' to keep the
+[[Community Showcase Index]] current. Coordinate with nearby builders, scouts, and
+logisticians so the whole faction benefits from the refined workflow.
+
+== See Also ==
+* [[Farm Build: Guardian Farm Operations]]
+* [[Farm Build: Wither Skeleton Farm]]
+* [[Farm Build: Iron Golem Foundry]]
+
+[[Category:Farms & Automation]]
+[[Category:2bZ Wiki]]

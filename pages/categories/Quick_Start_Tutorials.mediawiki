@@ -1,0 +1,29 @@
+{{Short description|Overview of the Quick Start Tutorials pages on the 2bZ wiki}}
+= Category:Quick Start Tutorials =
+{{2bZ Navbox}}
+__NOTOC__
+
+Condensed tutorials for rapidly gearing up, securing loot, and joining community initiatives without delay.
+
+== Featured Pages ==
+* [[Quick Start: Armor Upgrade Path]]
+* [[Quick Start: Boat Travel Mastery]]
+* [[Quick Start: Brewing Stand Setup]]
+* [[Quick Start: Building Shelter Fast]]
+* [[Quick Start: Elytra Acquisition Prep]]
+* [[Quick Start: Emergency Escape Plans]]
+* [[Quick Start: Enchanting Basics]]
+* [[Quick Start: Ender Chest Setup]]
+* [[Quick Start: Gathering Food Quickly]]
+* [[Quick Start: Horse Taming Basics]]
+* [[Quick Start: Iron Rush Mining]]
+* [[Quick Start: Portal Sprint Preparation]]
+* [[Quick Start: Potion Loadout Planning]]
+* [[Quick Start: Shield Mastery]]
+* [[Quick Start: Trading Hall Basics]]
+* [[Quick Start: Travel Kit Packing]]
+* [[Quick Start: Villager Rescue Workflow]]
+* [[Quick Start: Weapon Enchantment Path]]
+* [[Quick Start: XP Farming Quickstart]]
+
+[[Category:2bZ Wiki]]

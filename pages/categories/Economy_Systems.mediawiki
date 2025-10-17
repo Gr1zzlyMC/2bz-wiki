@@ -1,0 +1,29 @@
+{{Short description|Overview of the Economy Systems pages on the 2bZ wiki}}
+= Category:Economy Systems =
+{{2bZ Navbox}}
+__NOTOC__
+
+Documentation of the barter, gift, and trade systems that keep supplies circulating despite the anarchy setting.
+
+== Featured Pages ==
+* [[Economy System: Auction Event Planning]]
+* [[Economy System: Barter Kit Templates]]
+* [[Economy System: Bounty Board Operations]]
+* [[Economy System: Collective Farm Funding]]
+* [[Economy System: Community Currency Concepts]]
+* [[Economy System: Donation Chest Etiquette]]
+* [[Economy System: Emergency Aid Network]]
+* [[Economy System: Infrastructure Sponsorships]]
+* [[Economy System: Inventory Audit Process]]
+* [[Economy System: Loan Ledger Basics]]
+* [[Economy System: Logistics Contracting]]
+* [[Economy System: Map Art Marketplace]]
+* [[Economy System: Material Exchange Rates]]
+* [[Economy System: Philanthropy Highlights]]
+* [[Economy System: Repair Service Pricing]]
+* [[Economy System: Resource Share Tracking]]
+* [[Economy System: Restock Reminder System]]
+* [[Economy System: Supply Drop Protocols]]
+* [[Economy System: Trading Season Calendar]]
+
+[[Category:2bZ Wiki]]
